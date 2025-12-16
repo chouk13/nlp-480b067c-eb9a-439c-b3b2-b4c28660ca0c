@@ -1,0 +1,15 @@
+{
+  "name": "nlp-480b067c-eb9a-439c-b3b2-b4c28660ca0c",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "14.0.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  }
+}
